@@ -35,18 +35,16 @@ Whether it's assignments from 42 or my personal ventures, each project has been 
 ### SysAdmin projects
 [Inception](https://github.com/jmbertin/Inception) - 42 school curriculum. This project allows you to discover and become familiar with Docker and its tools, building a functionnal local Wordpress website.
 
-### Others projects
+### Graphical projects
 [React Native - Snake Game](https://github.com/jmbertin/ReactNative-Snake) - This is my first React Native project. A classical Snake game, developed using React Native! This game is compatible with both iOS and Android platforms. 
 
 ----
 
 <!--
-### Graphical projects
+
+<img src="./100.png" width="50" height="40">
 
 ### C++ projects
-
-
-
 
 **jmbertin/jmbertin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
