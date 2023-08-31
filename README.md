@@ -35,7 +35,7 @@ Whether it's assignments from 42 or my personal ventures, each project has been 
 
 ### SysAdmin projects
 
-[Inception](https://github.com/jmbertin/Inception) - 42 school curriculum. This project allows you to discover and become familiar with Docker and its tools, building a functionnal local Wordpress website.
+[Docker - Inception](https://github.com/jmbertin/Inception) - 42 school curriculum. This project allows you to discover and become familiar with Docker and its tools, building a functionnal local Wordpress website.
 
 ----
 
