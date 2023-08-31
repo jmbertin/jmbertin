@@ -14,6 +14,7 @@ Whether it's assignments from 42 or my personal ventures, each project has been 
 ----
 
 ## Summary
+
 🚀 Dive into my repositories below to explore a diverse array of projects **I've passionately crafted**, ranging from 42 School assignments to personal endeavors that showcase my evolving journey in the world of coding.
 
 ----
@@ -33,9 +34,13 @@ Whether it's assignments from 42 or my personal ventures, each project has been 
 ----
 
 ### SysAdmin projects
+
 [Inception](https://github.com/jmbertin/Inception) - 42 school curriculum. This project allows you to discover and become familiar with Docker and its tools, building a functionnal local Wordpress website.
 
+----
+
 ### Graphical projects
+
 [React Native - Snake Game](https://github.com/jmbertin/ReactNative-Snake) - This is my first React Native project. A classical Snake game, developed using React Native! This game is compatible with both iOS and Android platforms. 
 
 ----
