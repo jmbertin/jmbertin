@@ -1,7 +1,9 @@
 ### Hi there, welcome to my official public repo 👋
 
 ## Who am I ?
-I've been serving as a police officer 👮‍♂️ for 20 years, ensuring safety and upholding the law. **In November 2022, I embarked on a new journey by joining 42 School**.
+I've been serving as a police officer 👮‍♂️ for 20 years, ensuring safety and upholding the law. 
+
+**In November 2022, I embarked on a new journey by joining 42 School**.
 
 At 42 🎓, I've had the privilege of diving deep into the world of coding. From the day I stepped into this institution, **I've worked on dozens of projects**. These projects span various programming languages and cover an array of themes.
 
