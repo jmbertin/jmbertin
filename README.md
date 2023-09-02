@@ -41,7 +41,7 @@ Whether it's assignments from 42 or my personal ventures, each project has been 
 
 ----
 
-### Graphical projects
+### Graphic projects
 
 [React Native - Snake Game](https://github.com/jmbertin/ReactNative-Snake) - This is my first React Native project. A classical Snake game, developed using React Native! This game is compatible with both iOS and Android platforms. 
 
