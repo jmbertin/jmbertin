@@ -25,6 +25,8 @@ Whether it's assignments from 42 or my personal ventures, each project has been 
 
 [Ft_printf](https://github.com/jmbertin/FT_Printf) - 42 school curriculum. It's an attempt to recreate the famous printf function found in the C standard library, a function known for its versatility in handling string formatting. This version is a simplified take on it.
 
+[Ft_nm](https://github.com/jmbertin/Ft_Nm) - 42 school curriculum. It's a custom implementation of the UNIX nm command, designed to display the symbol table of ELF binaries. This project was developed as part of a UNIX programming assignment and replicates the core functionality of the GNU nm command (GNU Binutils for Ubuntu) v2.40.
+
 ----
 
 ### Security projects
