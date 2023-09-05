@@ -58,6 +58,16 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [N-Puzzle](https://github.com/jmbertin/N-Puzzle) - 42 school curriculum. This is a Python script for solving the N-Puzzle problem using the A* search or greedy algorithms.
 
+----
+
+## Root-me statistics
+
+[Root-Me Profil Page Link](https://www.root-me.org/jbertin?inc=info&lang=fr)
+
+![Demo GIF](./rootme.png)
+
+
+
 <!--
 
 <img src="./100.png" width="50" height="40">
