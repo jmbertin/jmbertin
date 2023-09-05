@@ -48,11 +48,15 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 ----
 
-### Graphic projects
+### Other projects
 
 [React Native - Snake Game](https://github.com/jmbertin/ReactNative-Snake) - This is my first React Native project. A classical Snake game, developed using React Native! This game is compatible with both iOS and Android platforms. 
 
 ----
+
+### Python projects
+
+[N-Puzzle](https://github.com/jmbertin/N-Puzzle) - 42 school curriculum. N-Puzzle Solver is a project undertaken as part of the 42 school curriculum. This is a Python script for solving the N-Puzzle problem using the A* search or greedy algorithms.
 
 <!--
 
