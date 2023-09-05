@@ -33,6 +33,16 @@ Whether it's assignments from 42 or my personal ventures, each project has been 
 
 [Rainfall](https://github.com/jmbertin/Rainfall) - 42 school curriculum. This project is part of the intermediate security course. Rainfall is a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to the next level.
 
+[Dr_Quine](https://github.com/jmbertin/Dr_Quine) - 42 school curriculum. This project invites you to confront the principle of self-reproduction and the problems that derive from it. It is a perfect introduction to more complex projects, particularly malware projects.
+
+[Override](https://github.com/jmbertin/Override) - 42 school curriculum. This project is the last security course. Override is a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to the next level.
+
+----
+
+### C++ projects
+
+[Ft_IRC](https://github.com/jmbertin/Ft_IRC) - 42 school curriculum. It's about creating our own IRC server according to standard RFC 2813 in C++ language.
+
 ----
 
 ### SysAdmin projects
