@@ -1,15 +1,12 @@
 # Hi there, welcome to my official public repo 👋
 
-## Who am I ?
-I've been serving as a police officer 👮‍♂️ for 20 years, ensuring safety and upholding the law. 
+For 20 years, I wore the badge of a police officer 👮‍♂️, dedicating myself to ensuring safety and upholding the law. My passion for security was not just limited to the physical realm; it extended to the digital world as well.
 
-**In November 2022, I embarked on a new journey by joining 42 School**.
+**In November 2022**, I embarked on a transformative journey by enrolling at **42 School**. This institution opened the doors to the vast and intricate world of coding for me. Since my first day at 42 🎓, I've immersed myself in a multitude of projects, each one broadening my horizons. These projects, spanning various programming languages, have allowed me to delve into diverse themes, with a particular interest in security and cybersecurity.
 
-At 42 🎓, I've had the privilege of diving deep into the world of coding. From the day I stepped into this institution, **I've worked on dozens of projects**. These projects span various programming languages and cover an array of themes.
+42 School has been more than just an educational institution for me. It's a place where I've met some of the most genuine, brilliant minds. Collaborating with these individuals, coupled with the guidance from the exceptional pedagogical team, has pushed me to surpass my limits day after day.
 
-It is also here that I was able to meet the most human, the most brilliant people, with whom I was able to work and exchange. It is largely thanks to its students, but also thanks to its formidable pedagogical team that I was able, day after day, to surpass myself.
-
-Whether it's assignments from 42 or my personal ventures, each project has been a step forward in my coding journey. Explore my repositories to see the diverse range of problems I've tackled and solutions I've crafted.
+Whether it's assignments from 42 or my personal ventures, each project represents a milestone in my coding journey. I invite you to explore my repositories to witness the array of challenges I've embraced and the innovative solutions I've devised. My passion for security, both in the real and digital worlds, continues to drive my endeavors in the realm of coding and cybersecurity.
 
 ----
 
