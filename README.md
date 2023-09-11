@@ -46,6 +46,8 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [Docker - Inception](https://github.com/jmbertin/Inception) - 42 school curriculum. This project allows you to discover and become familiar with Docker and its tools, building a functionnal local Wordpress website.
 
+[Kubernetes - Inception_of_things](https://github.com/jmbertin/Inception_of_things) - 42 school curriculum. A minimal introduction to Kubernetes. It's a deep dive into system administration, leveraging technologies such as K3S, K3D, Vagrant, and Argo CD to set up a virtual environment and deploy web applications.
+
 ----
 
 ### Other projects
