@@ -66,7 +66,13 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 ![Demo GIF](./rootme.png)
 
+----
 
+## HackTheBox statistics
+
+[HackTheBox Profil Page Link](https://app.hackthebox.com/profile/1314046)
+
+![Demo GIF](./htb.png)
 
 <!--
 
