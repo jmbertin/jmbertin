@@ -1,4 +1,5 @@
-# Hi there, welcome to my official public repo 👋
+<h1 align="center"><b>Hi there, welcome to my official public repo 👋</b></h1>
+ 
 
 For 20 years, I wore the badge of a police officer 👮‍♂️, dedicating myself to ensuring safety and upholding the law. My passion for security was not just limited to the physical realm; it extended to the digital world as well.
 
@@ -95,12 +96,19 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 </details>
 
+<br>
+
 ----
+<h1 align="center"><b>Statistics</b></h1>
 
-# Statistics
 
-<p align="center">
-  
+## Github
+  <br>
+<a href="https://github.com/jmbertin/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbertin&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="jmbertin" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jmbertin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
+</a>
+
 ## Root-me statistics
 
 
@@ -114,8 +122,6 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 [HackTheBox Profil Page Link](https://app.hackthebox.com/profile/1314046)
 
 ![Demo GIF](./htb.png)
-
-</p>
 
 <!--
 
