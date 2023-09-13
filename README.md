@@ -66,6 +66,10 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 ----
 
+# Statistics
+
+----
+
 ## Root-me statistics
 
 [Root-Me Profil Page Link](https://www.root-me.org/jbertin?inc=info&lang=fr)
