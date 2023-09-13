@@ -13,10 +13,12 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 ## Summary
 
 🚀 Dive into my repositories below to explore a diverse array of projects **I've passionately crafted**, ranging from 42 School assignments to personal endeavors that showcase my evolving journey in the world of coding.
+**Just click on a category to expand and view all related projects!**
 
-----
-
-### C projects
+<details>
+<summary>C projects</summary>
+  
+<br>
 
 [Libft](https://github.com/jmbertin/Libft) - 42 school curriculum. Very first project in 42. It's a C library that recreates certain standard functions from the libc, as well as a few additional and bonus functions that prove to be extremely useful for subsequent projects.
 
@@ -28,61 +30,92 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [Malloc](https://github.com/jmbertin/Malloc) - 42 school curriculum. In this project, we have implemented our own versions of the `malloc`, `free`, and `realloc` functions to dynamically manage memory in C programs.
 
-----
+<br>
 
-### Security projects
+</details>
+
+<details>
+<summary>Security projects</summary>
+  
+<br>
 
 [Rainfall](https://github.com/jmbertin/Rainfall) - 42 school curriculum. This project is part of the intermediate security course. Rainfall is a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to the next level.
 
 [Dr_Quine](https://github.com/jmbertin/Dr_Quine) - 42 school curriculum. This project invites you to confront the principle of self-reproduction and the problems that derive from it. It is a perfect introduction to more complex projects, particularly malware projects.
 
 [Override](https://github.com/jmbertin/Override) - 42 school curriculum. This project is the last security course. Override is a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to the next level.
+  
+<br>
 
-----
+</details>
 
-### C++ projects
+<details>
+<summary>C++ projects</summary>
+  
+<br>
 
 [Ft_IRC](https://github.com/jmbertin/Ft_IRC) - 42 school curriculum. It's about creating our own IRC server according to standard RFC 2813 in C++ language.
+  
+<br>
 
-----
+</details>
 
-### SysAdmin projects
+<details>
+<summary>SysAdmin projects</summary>
+  
+<br>
 
 [Docker - Inception](https://github.com/jmbertin/Inception) - 42 school curriculum. This project allows you to discover and become familiar with Docker and its tools, building a functionnal local Wordpress website.
 
 [Kubernetes - Inception_of_things](https://github.com/jmbertin/Inception_of_things) - 42 school curriculum. A minimal introduction to Kubernetes. It's a deep dive into system administration, leveraging technologies such as K3S, K3D, Vagrant, and Argo CD to set up a virtual environment and deploy web applications.
+  
+<br>
 
-----
+</details>
 
-### Other projects
+<details>
+<summary>Other projects</summary>
+  
+<br>
 
 [React Native - Snake Game](https://github.com/jmbertin/ReactNative-Snake) - This is my first React Native project. A classical Snake game, developed using React Native! This game is compatible with both iOS and Android platforms. 
+  
+<br>
 
-----
+</details>
 
-### Python projects
+<details>
+<summary>Python projects</summary>
+  
+<br>
 
 [N-Puzzle](https://github.com/jmbertin/N-Puzzle) - 42 school curriculum. This is a Python script for solving the N-Puzzle problem using the A* search or greedy algorithms.
+  
+<br>
+
+</details>
 
 ----
 
 # Statistics
 
-----
-
+<p align="center">
+  
 ## Root-me statistics
+
 
 [Root-Me Profil Page Link](https://www.root-me.org/jbertin?inc=info&lang=fr)
 
 ![Demo GIF](./rootme.png)
 
-----
 
 ## HackTheBox statistics
 
 [HackTheBox Profil Page Link](https://app.hackthebox.com/profile/1314046)
 
 ![Demo GIF](./htb.png)
+
+</p>
 
 <!--
 
