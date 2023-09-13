@@ -24,6 +24,8 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [Ft_nm](https://github.com/jmbertin/Ft_Nm) - 42 school curriculum. It's a custom implementation of the UNIX nm command, designed to display the symbol table of ELF binaries. This project was developed as part of a UNIX programming assignment and replicates the core functionality of the GNU nm command (GNU Binutils for Ubuntu) v2.40.
 
+[Minitalk](https://github.com/jmbertin/Minitalk) - 42 school curriculum. It's a unique communication system built on UNIX signals. This lightweight server-client application allows for a simple and direct means of interprocess communication through customized handling of SIGUSR1 and SIGUSR2 signals.
+
 ----
 
 ### Security projects
