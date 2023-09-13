@@ -26,6 +26,8 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [Minitalk](https://github.com/jmbertin/Minitalk) - 42 school curriculum. It's a unique communication system built on UNIX signals. This lightweight server-client application allows for a simple and direct means of interprocess communication through customized handling of SIGUSR1 and SIGUSR2 signals.
 
+[Malloc](https://github.com/jmbertin/Malloc) - 42 school curriculum. In this project, we have implemented our own versions of the `malloc`, `free`, and `realloc` functions to dynamically manage memory in C programs.
+
 ----
 
 ### Security projects
