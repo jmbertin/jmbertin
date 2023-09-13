@@ -109,19 +109,23 @@ Whether it's assignments from 42 or my personal ventures, each project represent
   <img src="https://github-readme-stats.vercel.app/api?username=jmbertin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
 </a>
 
-## Root-me statistics
+----
 
+## Root-me statistics
 
 [Root-Me Profil Page Link](https://www.root-me.org/jbertin?inc=info&lang=fr)
 
 ![Demo GIF](./rootme.png)
 
+----
 
 ## HackTheBox statistics
 
 [HackTheBox Profil Page Link](https://app.hackthebox.com/profile/1314046)
 
 ![Demo GIF](./htb.png)
+
+----
 
 <!--
 
