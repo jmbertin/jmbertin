@@ -129,7 +129,7 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [HackTheBox Profil Page Link](https://app.hackthebox.com/profile/1314046)
 
-![Demo GIF](./htb.png)
+![Demo GIF](./htb1.png)
 
 ----
 
