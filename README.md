@@ -75,11 +75,13 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 </details>
 
 <details>
-<summary>Other projects</summary>
+<summary>React native projects</summary>
   
 <br>
 
 [React Native - Snake Game](https://github.com/jmbertin/ReactNative-Snake) - This is my first React Native project. A classical Snake game, developed using React Native! This game is compatible with both iOS and Android platforms. 
+
+[React Native - FT_Hangouts](https://github.com/jmbertin/ReactNative-Snake) - 42 school curriculum. A reproduction of the basic functionality of the Hangouts application. Developed using React Native!
   
 <br>
 
