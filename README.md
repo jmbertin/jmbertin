@@ -95,7 +95,9 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 <br>
 
 [N-Puzzle](https://github.com/jmbertin/N-Puzzle) - 42 school curriculum. This is a Python script for solving the N-Puzzle problem using the A* search or greedy algorithms.
-  
+
+[Linear_regression](https://github.com/jmbertin/Linear_regression) - 42 school curriculum. The aim of this project is to introduce to the basic concept behind machine learning by creating a linear regression algorithm, with gradient descent.
+
 <br>
 
 </details>
