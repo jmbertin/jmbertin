@@ -45,6 +45,8 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 [Dr_Quine](https://github.com/jmbertin/Dr_Quine) - 42 school curriculum. This project invites you to confront the principle of self-reproduction and the problems that derive from it. It is a perfect introduction to more complex projects, particularly malware projects.
 
 [Override](https://github.com/jmbertin/Override) - 42 school curriculum. This project is the last security course. Override is a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to the next level.
+
+[Boot2Root](https://github.com/jmbertin/Boot2Root) - 42 school curriculum. This project is a security course at 42 School. Boot2Root is some sort of a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to your utlimate goal : become root.
   
 <br>
 
