@@ -31,6 +31,8 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [Malloc](https://github.com/jmbertin/Malloc) - 42 school curriculum. In this project, we have implemented our own versions of the `malloc`, `free`, and `realloc` functions to dynamically manage memory in C programs.
 
+[Lem-IPC](https://github.com/jmbertin/Lem-IPC) - 42 school curriculum. Lem-IPC is an automated game where bots, grouped into teams, strategically position themselves on a 2D board. The primary objective is for a team to outlast the others and claim the board. Bots are eliminated when surrounded by members of another team. The game's climax is reached when only one team remains on the battlefield.
+
 <br>
 
 </details>
