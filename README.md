@@ -47,6 +47,8 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 [Override](https://github.com/jmbertin/Override) - 42 school curriculum. This project is the last security course. Override is a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to the next level.
 
 [Boot2Root](https://github.com/jmbertin/Boot2Root) - 42 school curriculum. This project is a security course at 42 School. Boot2Root is some sort of a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to your utlimate goal : become root.
+
+[Darkly](https://github.com/jmbertin/Darkly) - 42 school curriculum. This project is the first in the cybersecurity branch of the curriculum at school 42. In this project you must succeed in locating and exploiting various common security vulnerabilities on a website.
   
 <br>
 
