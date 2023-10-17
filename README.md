@@ -51,7 +51,9 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 [Boot2Root](https://github.com/jmbertin/Boot2Root) - 42 school curriculum. This project is a security course at 42 School. Boot2Root is some sort of a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to your utlimate goal : become root.
 
 [Darkly](https://github.com/jmbertin/Darkly) - 42 school curriculum. This project is the first in the cybersecurity branch of the curriculum at school 42. In this project you must succeed in locating and exploiting various common security vulnerabilities on a website.
-  
+
+[Snow Crash](https://github.com/jmbertin/Snow_crash) - 42 school curriculum. Snow crash is a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to the next level.
+ 
 <br>
 
 </details>
@@ -75,7 +77,9 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 [Docker - Inception](https://github.com/jmbertin/Inception) - 42 school curriculum. This project allows you to discover and become familiar with Docker and its tools, building a functionnal local Wordpress website.
 
 [Kubernetes - Inception_of_things](https://github.com/jmbertin/Inception_of_things) - 42 school curriculum. A minimal introduction to Kubernetes. It's a deep dive into system administration, leveraging technologies such as K3S, K3D, Vagrant, and Argo CD to set up a virtual environment and deploy web applications.
-  
+
+[Cloud 1](https://github.com/jmbertin/Cloud_1) - 42 school curriculum. A minimal introduction to cloud management. This project aims to deploy WordPress sites simultaneously on several servers, in the cloud, using Ansible.
+
 <br>
 
 </details>
