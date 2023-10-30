@@ -163,7 +163,7 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 ## TryHackMe statistics
 
-[TryHackMe Profil Page Link](https://app.hackthebox.com/profile/1314046](https://tryhackme.com/p/jmbcorp999)
+[TryHackMe Profil Page Link](https://tryhackme.com/p/jmbcorp999)
 
 ![Demo GIF](./thm.png)
 
