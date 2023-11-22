@@ -126,6 +126,10 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [Linear_regression](https://github.com/jmbertin/Linear_regression) - 42 school curriculum. The aim of this project is to introduce to the basic concept behind machine learning by creating a linear regression algorithm, with gradient descent.
 
+[DSLR](https://github.com/jmbertin/Dslr) - 42 school curriculum. A logistic regression project on the theme of Harry Potter by recoding the Sorting Hat.
+
+
+
 <br>
 
 </details>
