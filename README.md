@@ -33,6 +33,8 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [Lem-IPC](https://github.com/jmbertin/Lem-IPC) - 42 school curriculum. Lem-IPC is an automated game where bots, grouped into teams, strategically position themselves on a 2D board. The primary objective is for a team to outlast the others and claim the board. Bots are eliminated when surrounded by members of another team. The game's climax is reached when only one team remains on the battlefield.
 
+[Ft_ping](https://github.com/jmbertin/Ft_ping) - 42 school curriculum. This repository contains a custom implementation of the ping utility, written in C. The program sends ICMP ECHO_REQUEST packets to network hosts and displays the response to measure the round-trip time and packet loss.
+
 <br>
 
 </details>
