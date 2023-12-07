@@ -35,6 +35,9 @@ Whether it's assignments from 42 or my personal ventures, each project represent
 
 [Ft_ping](https://github.com/jmbertin/Ft_ping) - 42 school curriculum. This repository contains a custom implementation of the ping utility, written in C. The program sends ICMP ECHO_REQUEST packets to network hosts and displays the response to measure the round-trip time and packet loss.
 
+[Ft_ssl_md5](https://github.com/jmbertin/Ft_ssl_md5) - 42 school curriculum. This program provides an implementation of popular cryptographic hashing algorithms, including MD5, SHA256 and Whirlpool. It allows users to generate hash digests of strings, files, or standard input.
+
+
 <br>
 
 </details>
