@@ -9,6 +9,8 @@ For 20 years, I wore the badge of a police officer 👮‍♂️, dedicating mys
 
 Whether it's assignments from 42 or my personal ventures, each project represents a milestone in my coding journey. I invite you to explore my repositories to witness the array of challenges I've embraced and the innovative solutions I've devised. My passion for security, both in the real and digital worlds, continues to drive my endeavors in the realm of coding and cybersecurity.
 
+If you want to see my resume in a fun and different way, this is where it happens: [cv-terminal](https://jmbertin.github.io/cv-terminal/)
+
 ----
 
 ## Summary
