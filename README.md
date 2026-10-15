@@ -49,6 +49,8 @@ If you want to see my resume in a fun and different way, this is where it happen
   
 <br>
 
+[V.I.C.E.S](https://github.com/jmbertin/vices) - Vulnerability Identification, Correlation & Evaluation System. An autonomous vulnerability intelligence microservice exposing a local REST API. It aggregates and correlates public vulnerability data from CVE List V5, NVD (CVSS), CISA KEV, and FIRST EPSS. Designed for vulnerability assessment and prioritization, without scanning or exploiting targets.
+
 [Rainfall](https://github.com/jmbertin/Rainfall) - 42 school curriculum. This project is part of the intermediate security course. Rainfall is a Capture The Flag (CTF) challenge where you will find vulnerabilities in code and exploit them to progress to the next level.
 
 [Dr_Quine](https://github.com/jmbertin/Dr_Quine) - 42 school curriculum. This project invites you to confront the principle of self-reproduction and the problems that derive from it. It is a perfect introduction to more complex projects, particularly malware projects.
